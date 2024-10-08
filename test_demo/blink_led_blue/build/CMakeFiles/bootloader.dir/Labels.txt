@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/github/esp32_learn/test_demo/blink_led_blue/build/CMakeFiles/bootloader
+E:/github/esp32_learn/test_demo/blink_led_blue/build/CMakeFiles/bootloader.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/CMakeFiles/bootloader-complete.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/github/esp32_learn/test_demo/blink_led_blue/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
