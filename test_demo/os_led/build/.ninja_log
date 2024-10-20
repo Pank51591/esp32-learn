@@ -1017,3 +1017,13 @@
 107	310	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.elf	cd03f7e2d4c307a2
 107	310	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.bin	cd03f7e2d4c307a2
 107	310	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.map	cd03f7e2d4c307a2
+127	238	0	esp-idf/esptool_py/CMakeFiles/app_check_size	8d8da77f8bf124f6
+127	238	0	C:/Users/Lenovo/Desktop/os_led/os_led/build/esp-idf/esptool_py/CMakeFiles/app_check_size	8d8da77f8bf124f6
+120	334	7500801968552101	bootloader-prefix/src/bootloader-stamp/bootloader-build	cd03f7e2d4c307a2
+120	334	7500801968552101	bootloader/bootloader.elf	cd03f7e2d4c307a2
+120	334	7500801968552101	bootloader/bootloader.bin	cd03f7e2d4c307a2
+120	334	7500801968552101	bootloader/bootloader.map	cd03f7e2d4c307a2
+120	334	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	cd03f7e2d4c307a2
+120	334	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.elf	cd03f7e2d4c307a2
+120	334	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.bin	cd03f7e2d4c307a2
+120	334	7500801968552101	C:/Users/Lenovo/Desktop/os_led/os_led/build/bootloader/bootloader.map	cd03f7e2d4c307a2

@@ -1,0 +1,68 @@
+[19:18:10.511]收←◆2mI (432) app_init: ELF file SHA256:  21d442968...[0m
+[0;32mI (437) app_init: ESP-IDF:          v5.3.1-dirty[0m
+[0;32mI (442) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (447) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (452) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (457) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (464) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (470) heap_init: At 3FFB80F8 len 00027F08 (159 KiB): DRAM[0m
+[0;32mI (476) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (483) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (489) heap_init: At 4009734C len 00008CB4 (35 KiB): IRAM[0m
+[0;32mI (497) spi_flash: detected chip: generic[0m
+[0;32mI (500) spi_flash: flash io: dio[0m
+[0;33mW (504) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (518) main_task: Started on CPU0[0m
+[0;32mI (528) main_task: Calling app_main()[0m
+I (558) wifi:wifi driver task: 3ffc00a4, prio:23, stack:6656, core=0
+I (568) wifi:wifi firmware version: ccaebfa
+I (568) wifi:wifi certification version: v7.0
+I (568) wifi:config NVS flash: enabled
+I (568) wifi:config nano formating: disabled
+I (568) wifi:Init data frame dynamic rx buffer num: 32
+I (578) wifi:Init static rx mgmt buffer num: 5
+I (578) wifi:Init management short buffer num: 32
+I (588) wifi:Init dynamic tx buffer num: 32
+I (588) wifi:Init static rx buffer size: 1600
+I (598) wifi:Init static rx buffer num: 10
+I (598) wifi:Init dynamic rx buffer num: 32
+[0;32mI (598) wifi_init: rx ba win: 6[0m
+[0;32mI (608) wifi_init: accept mbox: 6[0m
+[0;32mI (608) wifi_init: tcpip mbox: 32[0m
+[0;32mI (618) wifi_init: udp mbox: 6[0m
+[0;32mI (618) wifi_init: tcp mbox: 6[0m
+[0;32mI (618) wifi_init: tcp tx win: 5760[0m
+[0;32mI (628) wifi_init: tcp rx win: 5760[0m
+[0;32mI (628) wifi_init: tcp mss: 1440[0m
+[0;32mI (628) wifi_init: WiFi IRAM OP enabled[0m
+[0;32mI (638) wifi_init: WiFi RX IRAM OP enabled[0m
+[0;32mI (648) phy_init: phy_version 4830,54550f7,Jun 20 2024,14:22:08[0m
+[0;33mW (728) phy_init: saving new calibration data because of checksum failure, mode(0)[0m
+I (748) wifi:mode : sta (2c:bc:bb:4b:73:10)
+I (748) wifi:enable tsf
+[0;32mI (748) main_task: Returned from app_main()[0m
+I (768) wifi:new:<11,0>, old:<1,0>, ap:<255,255>, sta:<11,0>, prof:1, snd_ch_cfg:0x0
+I (768) wifi:state: init -> auth (0xb0)
+I (768) wifi:state: auth -> assoc (0x0)
+I (778) wifi:state: assoc -> run (0x10)
+I (778) wifi:state: run -> init (0x2a0)
+I (818) wifi:new:<11,0>, old:<11,0>, ap:<255,255>, sta:<11,0>, prof:1, snd_ch_cfg:0x0
+[0;32mI (818) sta: esp32 connect the ap faild!, retry[0m
+
+[19:18:13.294]收←◆[0;32mI (3228) sta: esp32 connect the ap faild!, retry[0m
+I (3258) wifi:new:<11,0>, old:<11,0>, ap:<255,255>, sta:<11,0>, prof:1, snd_ch_cfg:0x0
+I (3258) wifi:state: init -> auth (0xb0)
+I (3268) wifi:state: auth -> assoc (0x0)
+I (3278) wifi:state: assoc -> run (0x10)
+I (3288) wifi:connected with CMCC-Gm5z, aid = 33, channel 11, BW20, bssid = 94:00:b0:ab:ee:f0
+I (3288) wifi:security: WPA2-PSK, phy: bgn, rssi: -40
+I (3298) wifi:pm start, type: 1
+
+I (3298) wifi:dp: 1, bi: 102400, li: 3, scale listen interval from 307200 us to 307200 us
+[0;32mI (3308) sta: esp32 connected to ap![0m
+I (3358) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+
+[19:18:16.365]收←◆[0;32mI (6308) esp_netif_handlers: sta ip: 192.168.1.23, mask: 255.255.255.0, gw: 192.168.1.1[0m
+[0;32mI (6308) sta: esp32 get ip address![0m
+
+[19:19:21.421]收←◆I (71358) wifi:<ba-add>idx:0 (ifx:0, 94:00:b0:ab:ee:f0), tid:0, ssn:5, winSize:64
